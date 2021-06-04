@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PearlCoastal
-- 👀 I’m interested in camping，coffee making and also photographing
-- 🌱 I’m currently learning natural language processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send email to treasuresff@gmail.com
+- 👋 Hi, I’m @PearlCoastal.
+- 🌱 I'm a 2nd year MS. student majoring in Natural Language Processing at Japan Advanced Institute of Science and Technology.
+- 💞️ I’m now searching for a good job after my graduation.
+- 👀 I’m interested in camping, coffee making and also photographing.
+- 📫 How to reach me 👉 send email to treasuresff@gmail.com
 
 <!---
 PearlCoastal/PearlCoastal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
