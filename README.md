@@ -11,7 +11,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning and Neural Network models.
 - 📫 How to reach me 👉 send email to treasuresff@gmail.com
 
-Demo project:
+Project:
 ====
 - [Comparison Experiment of supervised machine learning methods](https://github.com/PearlCoastal/DecisionTree-SVM_comparison): Decision Tree and Support Vector Machine. Google Colab.
 - [Resume Processing project](https://github.com/PearlCoastal/ResumeProcessing) using Python language. Google Colab. 
