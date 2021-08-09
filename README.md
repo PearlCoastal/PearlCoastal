@@ -4,7 +4,7 @@
 👋 Hi, I’m @FEIFEI SUN.
 ====
 - 🌱 I'm a 2nd year MS. student majoring in Natural Language Processing Dialogue system at Japan Advanced Institute of Science and Technology.
-- ✨ I’m now searching NLP develop engineer job at Suzhou/Shanghai/Beijing in China.
+- ✨ I’m now searching NLP develop engineer job at Suzhou/Shanghai/Beijing/Shenzhen in China.
 - :two_hearts: Make great progress with "work life balance". ✌️
 - 👀 I’m interested in Machine Learning, Deep Learning and Neural Network models.
 - 📫 How to reach me 👉 send email to treasuresff@gmail.com
