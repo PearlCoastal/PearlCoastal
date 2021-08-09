@@ -1,9 +1,7 @@
-
 ![](https://github-readme-stats.vercel.app/api?username=PearlCoastal&show_icons=true&hide=contribs,prs)
 ![](https://github-profile-trophy.vercel.app/?username=PearlCoastal&column=6&theme=onedark)
 
-
-👋 Hi, I’m @PearlCoastal.
+👋 Hi, I’m @FEIFEI SUN.
 ====
 - 🌱 I'm a 2nd year MS. student majoring in Natural Language Processing Dialogue system at Japan Advanced Institute of Science and Technology.
 - ✨ I’m now searching NLP develop engineer job at Suzhou/Shanghai/Beijing in China.
