@@ -14,7 +14,7 @@ Project:
 - [Comparison Experiment of supervised machine learning methods](https://github.com/PearlCoastal/DecisionTree-SVM_comparison): Decision Tree and Support Vector Machine. Google Colab.
 - [Resume Processing project](https://github.com/PearlCoastal/ResumeProcessing) using Python language. Google Colab. 
 
-<img width="335" alt="截屏0003-08-10 13 27 41" src="https://user-images.githubusercontent.com/10908630/128808295-d85a7406-8606-4762-8f15-697fd9c78336.png">
+<img width="299" alt="截屏0003-08-12 00 31 10" src="https://user-images.githubusercontent.com/10908630/129058653-3cbfc143-de8e-4f69-8d79-0bcf214ab2dd.png">
 
 
 <!---
