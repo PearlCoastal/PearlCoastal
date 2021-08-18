@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @FEIFEI SUN.
 ====
-- 🌱 I'm a 2nd year MS. student majoring in Natural Language Processing Dialogue system at Japan Advanced Institute of Science and Technology.
+- 🌱 I'm a 2nd year MS. student majoring in Natural Language Processing Dialogue system at Japan Advanced Institute of Science and Technology, will graduate aroud July. 2022.
 - ✨ I’m now searching NLP develop engineer job at Suzhou/Shanghai/Beijing/Shenzhen in China.
 - 🐾 Make great progress with "work life balance". ✌️
 - 👀 I’m interested in Machine Learning, Deep Learning and Neural Network models.
