@@ -7,7 +7,7 @@
 - ✨ I’m now searching NLP develop engineer job at Suzhou/Shanghai/Beijing/Shenzhen in China.
 - 🐾 Make great progress with "work life balance". ✌️
 - 👀 I’m interested in Machine Learning, Deep Learning and Neural Network models.
-- 📫 How to reach me 👉 send email to treasuresff@gmail.com
+- 📫 How to reach me 👉 send email to `treasuresff@gmail.com`
 
 Project:
 ====
